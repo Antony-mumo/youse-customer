@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362604154552",
+    "project_id": "yousecustomerapp",
+    "storage_bucket": "yousecustomerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362604154552:android:2762483f5cf00f14b1ae4d",
+        "android_client_info": {
+          "package_name": "com.youse.yousecustomerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362604154552-0j39d5krbi19eqi0eahqeo8hrdrqfm9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuseIPto6LcbGN2faW42CwvPLVKupofHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362604154552-0j39d5krbi19eqi0eahqeo8hrdrqfm9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
